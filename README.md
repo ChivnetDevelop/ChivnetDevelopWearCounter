@@ -1,6 +1,6 @@
 # ChivnetDevelopWearCounter
 
-Statement Regarding Counter for Wear OS /  WearCounter App Privacy Policy
+Statement Regarding Counter for Wear OS App Privacy Policy
 
 This app (Version '1.0.0') is available on Google Play.
 
