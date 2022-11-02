@@ -17,9 +17,6 @@ All data (app preferences (like theme, etc.) and alarms) created by you (the use
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email and I will try to fix it/help you.
 
-If in future versions of this app, personally identifiable information data is collected, it will generally align with the following privacy policy -:
-https://www.termsfeed.com/live/b5c365fd-3c22-469a-be18-112aa6ee4a98
-
 Yours sincerely,
 chivnetdevelop@gmail.com
 28th October 2022
