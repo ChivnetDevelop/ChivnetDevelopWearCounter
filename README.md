@@ -1,7 +1,7 @@
 
 Statement Regarding "Counter for Wear OS" App Privacy Policy
 
-This app (Version '1.0.2') is available on Google Play.
+This app is available on Google Play.
 
 This app is provided at no cost and is intended for use as is.
 
