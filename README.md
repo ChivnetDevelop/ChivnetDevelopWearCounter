@@ -1,5 +1,5 @@
 
-Statement Regarding "Counter for Wear OS" App Privacy Policy
+Statement Regarding "Counter 123 for Wear OS" App Privacy Policy
 
 This app is available on Google Play.
 
@@ -29,4 +29,4 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Yours sincerely,
 chivnetdevelop@gmail.com
-7th November 2022
+26th November 2022
