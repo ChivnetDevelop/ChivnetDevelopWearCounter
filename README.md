@@ -32,4 +32,4 @@ This Privacy Policy may be updated from time to time. Any changes will be posted
 
 Yours sincerely,
 chivnetdevelop@gmail.com
-26th November 2022
+5th December 2023
