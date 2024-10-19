@@ -1,3 +1,4 @@
+THIS APP HAS BEEN RECENTLY UNPUBLISHED ON THE GOOGLE PLAY STORE AND IS NO LONGER TO BE USED. 
 
 Statement Regarding "Counter 123 for Wear OS" App Privacy Policy.
 
@@ -31,5 +32,5 @@ This Privacy Policy may be updated from time to time. Any changes will be posted
 
 
 Yours sincerely,
-chivnetdevelop@gmail.com
-5th December 2023
+chivnet@outlook.com
+20/10/2024
